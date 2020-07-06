@@ -1,0 +1,8 @@
+{
+    "HOME": {
+        "TITLE": "Exemple de projet angulaire avec i18n (internationalisation)",
+        "ENGLISH": "Anglais",
+        "SPANISH": "Espagnol",
+        "FRENCH": "Français"
+    }
+}
